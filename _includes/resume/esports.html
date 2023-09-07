@@ -1,0 +1,20 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign esports = data[1] %}
+  {% for content in esports %}
+  <li class="list-group-item">
+    <tr>
+      <td class="p-1 pr-2 font-weight-bold"><b>{{ content.summary }}</b></td>
+      
+      <td class="p-1 pl-2 font-weight-light text">
+        <ul class="items">
+          {% for item in content.items %}
+          <li>
+            <span class="item">{{ item }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </td>
+    </tr>
+  </li>
+  {% endfor %}
+</ul>
