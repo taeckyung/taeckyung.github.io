@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at NeurIPS '23.
+Paper "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams" is accepted at NeurIPS '23.
