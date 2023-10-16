@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Taeckyung Lee",
-    "label": "Ph.D. Student",
+    "label": "Ph.D. Student at KAIST",
     "image": "",
     "email": "taeckyung@kaist.ac.kr",
     "phone": "",
     "url": "https://taeckyung.github.io",
-    "summary": "A Ph.D. student, interested in test-time adaptation and domain adaptation.",
+    "summary": "Interested in machine learning adaptation and personalization, including test-time adaptation and domain adaptation.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -18,7 +18,7 @@
       {
         "network": "",
         "username": "",
-        "url": ".com/AlbertEinstein"
+        "url": ""
       }
     ]
   },
@@ -37,7 +37,7 @@
       "courses": []
     },
     {
-      "institution": "KAIST, Daejeon, Korea",
+      "institution": "KAIST, Daejeon, Republic of Korea",
       "url": "",
       "area": "School of Electrical Engineering",
       "studyType": "M.S.",
@@ -47,7 +47,7 @@
       "courses": []
     },
     {
-      "institution": "KAIST, Daejeon, Korea",
+      "institution": "KAIST, Daejeon, Republic of Korea",
       "url": "",
       "area": "School of Computing",
       "studyType": "B.S.",
