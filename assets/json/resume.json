@@ -24,7 +24,12 @@
   },
   "work": [
   ],
-  "volunteer": [],
+  "services": [
+    {
+      "position": "Conference Reviewer",
+      "highlights": ["IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2024"]
+    }
+  ],
   "education": [
     {
       "institution": "KAIST, Daejeon, Republic of Korea",
