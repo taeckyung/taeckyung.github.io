@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "ESTTA: Label-Free Accuracy Estimation for Test-Time Adaptation" is accepted at CVPR '24.
+Paper "Label-Free Accuracy Estimation for Test-Time Adaptation" is accepted at CVPR '24.
