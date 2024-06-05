@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Taeckyung Lee
-title: Ph.D. student, KAIST
+title: Ph.D. Student, KAIST
 email: taeckyung@kaist.ac.kr
 # email_title: Email (Email title override)
 phone: 
@@ -52,8 +52,9 @@ google_analytics: "G-R2EM4J3E8J"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. student at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a> (Advisor: <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>). I earned my M.S. in School of Electrical Engineering at KAIST under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I received my B.S. in School of Computing from KAIST with Magna Cum Laude.
-  My research interest includes machine learning adaptation and personalization, especially including robust and reliable test-time adaptation without any source or labeled data.
+  I am a Ph.D. student at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
+  
+  My research interests include machine learning adaptation and personalization, with a particular focus on robust and reliable test-time adaptation without any source or labeled data. My recent work includes "AETTA" (CVPR 2024) and "SoTTA" (NeurIPS 2023), which focus on estimating accuracy during test-time adaptation without labeled data and address the challenges of adapting models to noisy data streams, emphasizing the robustness and reliability of test-time adaptation.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -101,19 +102,19 @@ content:
     layout: list
     content:
       - layout: top
-        title: KAIST <i>(2022.08 - Present)</i>
-        sub_title: Ph.D. Candidate in School of Electrical Engineering
-        caption: Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        title: KAIST
+        sub_title: Ph.D. Candidate in School of Electrical Engineering, Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        caption: 2022.08 - Present
     
       - layout: top
-        title: KAIST <i>(2020.08 - 2022.08)</i>
-        sub_title: M.S. in School of Electrical Engineering
-        caption: Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        title: KAIST
+        sub_title: M.S. in School of Electrical Engineering, Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        caption: 2020.08 - 2022.08
           
       - layout: top
-        title: KAIST <i>(2016.02 - 2020.08)</i>
-        sub_title: B.S. in School of Computing 
-        caption: GPA 3.96/4.30 (Magna Cum Laude)<br>Advanced Major (School of Computing)<br>Certificate in AI (School of Computing)
+        title: KAIST
+        sub_title: B.S. in School of Computing, GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
+        caption: 2016.02 - 2020.08
 
 
   - title: Publications # Title for the section
@@ -194,21 +195,40 @@ content:
     layout: list
     content:
       - layout: top
-        title: Reviewer
-        description: | 
-          CVPR 24
+        sub_title: Reviewer @ CVPR 24
 
   - title: Teaching Experiences
     layout: list
     content:
       - layout: top
-        title: Teaching Assistant
-        description: | 
-          **EE323 Computer Networks, KAIST** <i>(Spring 2024, Spring 2022, Spring 2021)</i>
-          <br>**EE415 Operating Systems and System Programming for EE, KAIST** <i>(Fall 2023)</i>
-          <br>**EE209 Programming Structures for EE, KAIST** <i>(Spring 2023, Fall 2021)</i>
-          <br>**EE595 Mobile Computing, Sensing, Learning, and Interactions, KAIST** <i>(Fall 2022)</i>
-          <br>**CS496 Immersion Camp, KAIST** <i>(Summer 2019)</i>
+        sub_title: Teaching Assistant, EE323 Computer Networks, KAIST
+        caption: Spring 2024, Spring 2022, Spring 2021
+      - layout: top
+        sub_title: Teaching Assistant, EE415 Operating Systems and System Programming for EE, KAIST
+        caption: Fall 2023
+      - layout: top
+        sub_title: Teaching Assistant, EE209 Programming Structures for EE, KAIST
+        caption: Spring 2023, Fall 2021
+      - layout: top
+        sub_title: Teaching Assistant, EE595 Mobile Computing, Sensing, Learning, and Interactions, KAIST
+        caption: Fall 2022
+      - layout: top
+        sub_title: Teaching Assistant, CS496 Immersion Camp, KAIST
+        caption: Summer 2019
+
+  - title: E-Sports
+    layout: text
+    content: |
+      As an enthusiastic e-sports player, I am also interested in human factors in e-sports.
+      <br>
+      <br><a href="https://github.com/terry00123/CS564-LoL-Personality" target="_blank">Analysis on Personality and In-Game Factors in League of Legends</a>
+      <br>- I conducted an in-depth analysis of the personalities and in-game factors of League of Legends players through a collaborative survey with the Professional Spectator YouTube channel.
+      <br>
+      <br>Few records as a player&#58;
+      <br>- Top 0.1% Player (Master tier) in KR Server, League of Legends (2020),
+      <br>- Champion in Daejeon Metropolitan City, International e-Sports Festival (IEF), League of Legends (2019),
+      <br>- Top-500 Player in KR Server, Overwatch (2017)
+
 
 # Footer
 footer_show_references: true
