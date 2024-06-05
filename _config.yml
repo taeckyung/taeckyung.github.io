@@ -98,6 +98,16 @@ content:
   #         Description of role
 
 
+  - title: Latest News
+    layout: text
+    content: |
+      **Feb 2024**  Paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
+      <br>**Sep 2023**  Paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
+      <br>**Jun 2022**  Paper accepted at CVPR Workshop (CVPM) '22.
+      <br>**Jun 2022**  Demo at MobiSys '22.
+      <br>**Oct 2020**  Selected as a scholarship recipient of the Kwon Yong-se Scholarship (KAIST EE).
+
+
   - title: Education
     layout: list
     content:
