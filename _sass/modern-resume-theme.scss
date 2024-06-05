@@ -14,13 +14,13 @@
 }
 
 @media screen and (max-width: 767px) {
-  .header-container div{
-    text-align: center;
-  }
+  // .header-container div{
+  //   text-align: center;
+  // }
 
-  .header-right p {
-    text-align: center;
-  }
+  // .header-right p {
+  //   text-align: center;
+  // }
 
   .header-left {
     margin-top: 0px;
@@ -77,11 +77,11 @@
     }
 
     @media screen and (max-width: 767px) {
-      text-align: center!important;
+      // text-align: center!important;
 
-      p {
-        text-align: center!important;
-      }
+      // p {
+      //   text-align: center!important;
+      // }
     }
 
     a {

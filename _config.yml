@@ -124,7 +124,9 @@ content:
       - layout: top
         title: KAIST
         sub_title: B.S. in School of Computing
-        caption: 2016.02 - 2020.08 <br>GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
+        description: |
+          - GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
+        caption: 2016.02 - 2020.08
 
 
   - title: Publications # Title for the section
@@ -148,7 +150,8 @@ content:
             url: https://github.com/taeckyung/AETTA
         description: | 
           <u>Taeckyung Lee</u>, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee
-          <br>**CVPR 2024** (Acceptance rate: 23.6%)
+          
+          **CVPR 2024** (Acceptance rate: 23.6%)
 
       - layout: top
         title: <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf" target="_blank">&#34;SoTTA&#58; Robust Test-Time Adaptation on Noisy Data Streams&#34;</a>
@@ -164,7 +167,8 @@ content:
             url: https://github.com/taeckyung/SoTTA
         description: | 
           Taesik Gong\*, Yewon Kim\*, <u>Taeckyung Lee&#42;</u>, Sorn Chottananurak, Sung-Ju Lee
-          <br>**NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
+          
+          **NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
 
       - layout: top
         title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Ming-Wandering with Facial Videos in Online Lectures&#34;</a>
@@ -172,22 +176,15 @@ content:
           - title:  Project page
             icon: fas fa-home
             url: https://nmsl.kaist.ac.kr/projects/attention/
-        description: | 
-          <u>Taeckyung Lee</u>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
-          <br>**CVPR Workshops 2022**
-
-      - layout: top
-        title: <a href="https://nmsl.kaist.ac.kr/pdf/MobiSys22_Attention.pdf" target="_blank">&#34;Demo&#58; Real-time Attention State Visualization of Online Classes&#34;</a>
-        additional_links:
-          - title:  Project page
-            icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/attention/
           - title:  Paper
             icon: fas fa-file-pdf
-            url: https://nmsl.kaist.ac.kr/pdf/MobiSys22_Attention.pdf
+            url: https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf
         description: | 
-          <u>Taeckyung Lee</u>, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
-          <br>**MobiSys 2022 Demo**
+          <u>Taeckyung Lee</u>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
+
+          **CVPR Workshops 2022**
+
+          - Also appeared at **MobiSys 2022 Demo**
 
   - title: Awards
     layout: list
@@ -230,14 +227,16 @@ content:
     layout: text
     content: |
       As an enthusiastic e-sports player, I am also interested in human factors in e-sports.
-      <br>
-      <br><a href="https://github.com/terry00123/CS564-LoL-Personality" target="_blank">Analysis on Personality and In-Game Factors in League of Legends</a>
-      <br>- I conducted an in-depth analysis of the personalities and in-game factors of League of Legends players through a collaborative survey with the Professional Spectator YouTube channel.
-      <br>
-      <br>Few records as a player&#58;
-      <br>- Top 0.1% Player (Master tier) in KR Server, League of Legends (2020)
-      <br>- Champion in Daejeon Metropolitan City, International e-Sports Festival (IEF), League of Legends (2019)
-      <br>- Top-500 Player in KR Server, Overwatch (2017)
+      
+      <a href="https://github.com/taeckyung/CS564-LoL-Personality/blob/master/Analysis%20on%20Personality%20and%20In-Game%20Factors%20in%20League%20of%20Legends.pdf" target="_blank">Analysis on Personality and In-Game Factors in League of Legends</a>
+
+      - I conducted an in-depth analysis of the personalities and in-game factors of League of Legends players through a collaborative survey with the Professional Spectator YouTube channel.
+      
+      Few records as a player&#58;
+      
+      - Top 0.1% Player (Master tier) in KR Server, League of Legends (2020)
+      - Champion in Daejeon Metropolitan City, International e-Sports Festival (IEF), League of Legends (2019)
+      - Top-500 Player in KR Server, Overwatch (2017)
 
 
 # Footer
