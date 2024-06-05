@@ -113,7 +113,9 @@ content:
           
       - layout: top
         title: KAIST
-        sub_title: B.S. in School of Computing, GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
+        sub_title: B.S. in School of Computing
+        description: |
+          GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
         caption: 2016.02 - 2020.08
 
 
