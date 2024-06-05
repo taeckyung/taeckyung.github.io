@@ -165,6 +165,9 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://github.com/taeckyung/SoTTA
+          - title:  Video
+            icon: fas fa-link
+            url: https://neurips.cc/virtual/2023/poster/72892
         description: | 
           Taesik Gong\*, Yewon Kim\*, <u>Taeckyung Lee&#42;</u>, Sorn Chottananurak, Sung-Ju Lee
           
@@ -185,6 +188,18 @@ content:
           **CVPR Workshops 2022**
 
           - Also appeared at **MobiSys 2022 Demo**
+
+  - title: Work Experiences
+    layout: list
+    content:
+      - layout: top
+        title: Deepscent Co., Ltd
+        sub_title: Software Engineer Intern
+        caption: 2019.12 - 2020.02
+      - layout: top
+        title: KAIST Advanced Networking Lab
+        sub_title: Undergraduate Research Assistant
+        caption: 2019.03 - 2019.12
 
   - title: Awards
     layout: list
