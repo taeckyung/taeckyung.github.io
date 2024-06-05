@@ -1,43 +1,43 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: taeckyung/taeckyung.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Taeckyung Lee
+title: Ph.D. student, KAIST
+email: taeckyung@kaist.ac.kr
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: taeckyung_lee
+github_username:  taeckyung
+stackoverflow_username: 
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
+linkedin_username: taeckyung
+xing_username: 
+pinterest_username: 
+youtube_username: 
+orcid_username: 
+googlescholar_username: RKaOmicAAAAJ
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,70 +46,169 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-R2EM4J3E8J"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am a Ph.D. student at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a> (Advisor: <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>). I earned my M.S. in School of Electrical Engineering at KAIST under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I received my B.S. in School of Computing from KAIST with Magna Cum Laude.
+  My research interest includes machine learning adaptation and personalization, especially including robust and reliable test-time adaptation without any source or labeled data.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: Project name
+  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       link_text: Link Text
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Short overview of the project (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description about the work on/with the project
+  # - title: Experience
+  #   layout: list
+  #   content:
+  #     - layout: right
+  #       title: Company name
+  #       sub_title: Job title
+  #       caption: Date Range (eg. November 2016 - present)
+  #       link: Link to company (optional)
+  #       quote: >
+  #         Short description of the company (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description of role
+
+
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      - layout: top
+        title: KAIST <i>(2022.08 - Present)</i>
+        sub_title: Ph.D. Candidate in School of Electrical Engineering
+        caption: Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+    
+      - layout: top
+        title: KAIST <i>(2020.08 - 2022.08)</i>
+        sub_title: M.S. in School of Electrical Engineering
+        caption: Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+          
+      - layout: top
+        title: KAIST <i>(2016.02 - 2020.08)</i>
+        sub_title: B.S. in School of Computing 
+        caption: GPA 3.96/4.30 (Magna Cum Laude)<br>Advanced Major (School of Computing)<br>Certificate in AI (School of Computing)
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    
+      # - layout: top
+      #   title: Conferences and Journals
+
+      - layout: top
+        title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
+        additional_links:
+          - title:  Project page
+            icon: fas fa-home
+            url: https://nmsl.kaist.ac.kr/projects/aetta/
+          - title:  Paper
+            icon: fas fa-file-pdf
+            url: https://arxiv.org/pdf/2404.01351.pdf
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/taeckyung/AETTA
+        description: | 
+          <u>Taeckyung Lee</u>, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee
+          <br>**CVPR 2024** (Acceptance rate: 23.6%)
+
+      - layout: top
+        title: <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf" target="_blank">&#34;SoTTA&#58; Robust Test-Time Adaptation on Noisy Data Streams&#34;</a>
+        additional_links:
+          - title:  Project page
+            icon: fas fa-home
+            url: https://nmsl.kaist.ac.kr/projects/sotta/
+          - title:  Paper
+            icon: fas fa-file-pdf
+            url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf
+          - title:  Code
+            icon: fab fa-github
+            url: https://github.com/taeckyung/SoTTA
+        description: | 
+          Taesik Gong\*, Yewon Kim\*, <u>Taeckyung Lee&#42;</u>, Sorn Chottananurak, Sung-Ju Lee
+          <br>**NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
+
+      - layout: top
+        title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Ming-Wandering with Facial Videos in Online Lectures&#34;</a>
+        additional_links:
+          - title:  Project page
+            icon: fas fa-home
+            url: https://nmsl.kaist.ac.kr/projects/attention/
+        description: | 
+          <u>Taeckyung Lee</u>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
+          <br>**CVPR Workshops 2022**
+
+      - layout: top
+        title: <a href="https://nmsl.kaist.ac.kr/pdf/MobiSys22_Attention.pdf" target="_blank">&#34;Demo&#58; Real-time Attention State Visualization of Online Classes&#34;</a>
+        additional_links:
+          - title:  Project page
+            icon: fas fa-home
+            url: https://nmsl.kaist.ac.kr/projects/attention/
+          - title:  Paper
+            icon: fas fa-file-pdf
+            url: https://nmsl.kaist.ac.kr/pdf/MobiSys22_Attention.pdf
+        description: | 
+          <u>Taeckyung Lee</u>, Hye-Young Chung, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
+          <br>**MobiSys 2022 Demo**
+
+  - title: Awards
+    layout: list
+    content:
+      - layout: top
+        title: Kwon Young-se Scholarship
+        sub_title: School of Electrical Engineering, KAIST
+        caption: 2020.10.12
+      - layout: top
+        title: The National Scholarship for Science and Engineering
+        sub_title: Ministry of Science and ICT, Korean Government
+        caption: 2018.08.10
+
+  - title: Professional Services
+    layout: list
+    content:
+      - layout: top
+        title: Reviewer
+        description: | 
+          CVPR 24
+
+  - title: Teaching Experiences
+    layout: list
+    content:
+      - layout: top
+        title: Teaching Assistant
+        description: | 
+          **EE323 Computer Networks, KAIST** <i>(Spring 2024, Spring 2022, Spring 2021)</i>
+          <br>**EE415 Operating Systems and System Programming for EE, KAIST** <i>(Fall 2023)</i>
+          <br>**EE209 Programming Structures for EE, KAIST** <i>(Spring 2023, Fall 2021)</i>
+          <br>**EE595 Mobile Computing, Sensing, Learning, and Interactions, KAIST** <i>(Fall 2022)</i>
+          <br>**CS496 Immersion Camp, KAIST** <i>(Summer 2019)</i>
 
 # Footer
 footer_show_references: true
