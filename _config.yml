@@ -103,20 +103,18 @@ content:
     content:
       - layout: top
         title: KAIST
-        sub_title: Ph.D. Candidate in School of Electrical Engineering, Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        sub_title: Ph.D. Candidate in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
         caption: 2022.08 - Present
     
       - layout: top
         title: KAIST
-        sub_title: M.S. in School of Electrical Engineering, Advisor &#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>
+        sub_title: M.S. in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
         caption: 2020.08 - 2022.08
           
       - layout: top
         title: KAIST
         sub_title: B.S. in School of Computing
-        description: |
-          GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
-        caption: 2016.02 - 2020.08
+        caption: 2016.02 - 2020.08 <br>GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
 
 
   - title: Publications # Title for the section
