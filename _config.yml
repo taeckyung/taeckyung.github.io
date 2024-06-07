@@ -174,7 +174,7 @@ content:
           **NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
 
       - layout: top
-        title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Ming-Wandering with Facial Videos in Online Lectures&#34;</a>
+        title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Mind-Wandering with Facial Videos in Online Lectures&#34;</a>
         additional_links:
           - title:  Project page
             icon: fas fa-home
