@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Taeckyung Lee
-title: PhD Student, KAIST
+title: Ph.D. Student, KAIST
 email: taeckyung@kaist.ac.kr
 # email_title: Email (Email title override)
 phone: 
@@ -52,7 +52,7 @@ google_analytics: "G-R2EM4J3E8J"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I earned my MS in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my BS in Computing at KAIST, graduating Magna Cum Laude.
+  I am a Ph.D. student at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
   
   My research interests include machine learning adaptation and personalization, with a particular focus on robust and reliable test-time adaptation without any source or labeled data. My recent work includes "AETTA" (CVPR 2024) and "SoTTA" (NeurIPS 2023), which focus on estimating accuracy during test-time adaptation without labeled data and address the challenges of adapting models to noisy data streams, emphasizing the robustness and reliability of test-time adaptation.
 # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -112,18 +112,18 @@ content:
     layout: list
     content:
       - layout: top
-        title: PhD Candidate, KAIST
-        sub_title: PhD Candidate in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
+        title: Ph.D. Candidate, KAIST
+        sub_title: Ph.D. Candidate in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
         caption: 2022.08 - Present
     
       - layout: top
-        title: MS, KAIST
-        sub_title: MS in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
+        title: M.S., KAIST
+        sub_title: M.S. in School of Electrical Engineering (Advisor&#58; <a href="https://sites.google.com/site/wewantsj/" target="_blank"><b>Prof. Sung-Ju Lee</b></a>)
         caption: 2020.08 - 2022.08
           
       - layout: top
-        title: BS, KAIST
-        sub_title: BS in School of Computing
+        title: B.S., KAIST
+        sub_title: B.S. in School of Computing
         description: |
           - GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
         caption: 2016.02 - 2020.08
@@ -135,6 +135,12 @@ content:
     
       # - layout: top
       #   title: Conferences and Journals
+      - layout: top
+        title: <a href="">&#34;Active Test-Time Adaptation with Binary Feedback&#34;</a>
+        description: |
+          <b>Taeckyung Lee</b>, Sorn Chottananurak, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
+
+          Under review (^: Co-corresponding authors)
 
       - layout: top
         title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
@@ -149,7 +155,7 @@ content:
             icon: fab fa-github
             url: https://github.com/taeckyung/AETTA
         description: | 
-          <u>Taeckyung Lee</u>, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee
+          <b>Taeckyung Lee</b>, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee
           
           **CVPR 2024** (Acceptance rate: 23.6%)
 
@@ -169,7 +175,7 @@ content:
             icon: fas fa-link
             url: https://neurips.cc/virtual/2023/poster/72892
         description: | 
-          Taesik Gong\*, Yewon Kim\*, <u>Taeckyung Lee&#42;</u>, Sorn Chottananurak, Sung-Ju Lee
+          Taesik Gong\*, Yewon Kim\*, <b>Taeckyung Lee&#42;</b>, Sorn Chottananurak, Sung-Ju Lee
           
           **NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
 
@@ -183,7 +189,7 @@ content:
             icon: fas fa-file-pdf
             url: https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf
         description: | 
-          <u>Taeckyung Lee</u>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
+          <b>Taeckyung Lee</b>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
 
           **CVPR Workshops 2022**
 
@@ -217,7 +223,10 @@ content:
     layout: list
     content:
       - layout: top
-        title: Reviewer @ CVPR '24
+        title: Reviewer
+        description: |
+          - NeurIPS '24
+          - CVPR '24
 
   - title: Teaching Experiences
     layout: list
@@ -248,7 +257,7 @@ content:
         description: |
           As an enthusiastic e-sports player, I am also interested in human factors in e-sports.
           
-          <a href="https://github.com/taeckyung/CS564-LoL-Personality/blob/master/Analysis%20on%20Personality%20and%20In-Game%20Factors%20in%20League%20of%20Legends.pdf" target="_blank">Analysis on Personality and In-Game Factors in League of Legends</a>
+          Analysis on Personality and In-Game Factors in League of Legends (<a href="https://github.com/taeckyung/CS564-LoL-Personality/blob/master/Analysis%20on%20Personality%20and%20In-Game%20Factors%20in%20League%20of%20Legends.pdf" target="_blank">Link</a>)
 
           - I conducted an in-depth analysis of the personalities and in-game factors of League of Legends players through a collaborative survey with the Professional Spectator YouTube channel.
           
