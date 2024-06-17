@@ -140,7 +140,7 @@ content:
         description: |
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
-          Under review (^: Co-corresponding authors)
+          Under review (^: Equal advising)
 
       - layout: top
         title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
