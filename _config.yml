@@ -199,12 +199,16 @@ content:
     layout: list
     content:
       - layout: top
+        title: Networking and Mobile Systems Lab
+        sub_title: Undergraduate Researcher
+        caption: 2020.03 - 2020.08
+      - layout: top
         title: Deepscent Co., Ltd
         sub_title: Software Engineer Intern
         caption: 2019.12 - 2020.02
       - layout: top
         title: KAIST Advanced Networking Lab
-        sub_title: Undergraduate Research Assistant
+        sub_title: Undergraduate Researcher
         caption: 2019.03 - 2019.12
 
   - title: Awards
