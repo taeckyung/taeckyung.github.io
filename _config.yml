@@ -199,15 +199,15 @@ content:
     layout: list
     content:
       - layout: top
-        title: Networking and Mobile Systems Lab
+        title: Networking and Mobile Systems Lab, KAIST
         sub_title: Undergraduate Researcher
         caption: 2020.03 - 2020.08
       - layout: top
-        title: Deepscent Co., Ltd
+        title: Deepscent
         sub_title: Software Engineer Intern
         caption: 2019.12 - 2020.02
       - layout: top
-        title: KAIST Advanced Networking Lab
+        title: Advanced Networking Lab, KAIST
         sub_title: Undergraduate Researcher
         caption: 2019.03 - 2019.12
 
@@ -236,22 +236,13 @@ content:
     layout: list
     content:
       - layout: top
-        title: Teaching Assistant
-      - layout: top
-        sub_title: EE323 Computer Networks, KAIST
-        caption: Spring 2024, Spring 2022, Spring 2021
-      - layout: top
-        sub_title: EE415 Operating Systems and System Programming for EE, KAIST
-        caption: Fall 2023
-      - layout: top
-        sub_title: EE209 Programming Structures for EE, KAIST
-        caption: Spring 2023, Fall 2021
-      - layout: top
-        sub_title: EE595 Mobile Computing, Sensing, Learning, and Interactions, KAIST
-        caption: Fall 2022
-      - layout: top
-        sub_title: CS496 Immersion Camp, KAIST
-        caption: Summer 2019
+        title: Teaching Assistant @ KAIST
+        description: |
+          - EE323 Computer Networks (Spring 2024, Spring 2022, Spring 2021)
+          - EE415 Operating Systems and System Programming for EE (Fall 2023)
+          - EE209 Programming Structures for EE (Spring 2023, Fall 2021)
+          - EE595 Mobile Computing, Sensing, Learning, and Interactions (Fall 2022)
+          - CS496 Immersion Camp (Summer 2019)
 
   - title: Miscellaneous
     layout: list
