@@ -154,6 +154,9 @@ content:
           - title:  Code
             icon: fab fa-github
             url: https://github.com/taeckyung/AETTA
+          - title: Video
+            icon: fa fa-youtube-play
+            url: https://www.youtube.com/watch?v=qZJ_0-rxMs0
         description: | 
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Taesik Gong, Sung-Ju Lee
           
@@ -172,7 +175,7 @@ content:
             icon: fab fa-github
             url: https://github.com/taeckyung/SoTTA
           - title:  Video
-            icon: fas fa-link
+            icon: fa fa-youtube-play
             url: https://neurips.cc/virtual/2023/poster/72892
         description: | 
           Taesik Gong\*, Yewon Kim\*, <b>Taeckyung Lee&#42;</b>, Sorn Chottananurak, Sung-Ju Lee
