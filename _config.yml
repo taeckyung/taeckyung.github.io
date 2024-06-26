@@ -136,7 +136,7 @@ content:
       # - layout: top
       #   title: Conferences and Journals
       - layout: top
-        title: <a href="">&#34;Active Test-Time Adaptation with Binary Feedback&#34;</a>
+        title: <a>&#34;Active Test-Time Adaptation with Binary Feedback&#34;</a>
         description: |
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
