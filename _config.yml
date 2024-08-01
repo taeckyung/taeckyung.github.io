@@ -136,14 +136,14 @@ content:
       # - layout: top
       #   title: Conferences and Journals
       - layout: top
-        title: <a>&#34;Active Test-Time Adaptation with Binary Feedback&#34;</a>
+        title: <a>&#34;Anonymized Title&#34;</a>
         description: |
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
           Under review (^: Equal advising)
 
       - layout: top
-        title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
+        title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank" onclick="captureOutboundLink(https://arxiv.org/pdf/2404.01351.pdf); return false;">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
         additional_links:
           - title:  Project page
             icon: fas fa-home
