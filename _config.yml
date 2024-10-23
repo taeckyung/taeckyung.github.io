@@ -232,6 +232,7 @@ content:
       - layout: top
         title: Reviewer
         description: |
+          - ICLR '25
           - NeurIPS '24
           - CVPR '24
 
