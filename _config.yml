@@ -219,11 +219,11 @@ content:
     content:
       - layout: top
         title: Kwon Young-se Scholarship
-        sub_title: School of EE, KAIST (Top2 among EE grad school applicants in 2022 Fall)
+        sub_title: School of EE, KAIST (<i>Top-2 among EE grad school applicants in 2020 Fall</i>)
         caption: 2020.10.12
       - layout: top
         title: The National Scholarship for Science and Engineering
-        sub_title: Ministry of Science and ICT, Korean Government (In acknowledgment of a high GPA)
+        sub_title: Ministry of Science and ICT, Korean Government (<i>In acknowledgment of a high GPA</i>)
         caption: 2018.08.10
 
   - title: Professional Services
