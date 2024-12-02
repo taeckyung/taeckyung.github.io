@@ -248,6 +248,22 @@ content:
           - EE595 Mobile Computing, Sensing, Learning, and Interactions (Fall 2022)
           - CS496 Immersion Camp (Summer 2019)
 
+  - title: Patents
+    layout: list
+    content:
+      - layout: top
+        title: Time-Aware Reinforcement-Learning Method for Geographic Ad Hoc Routing with Pre-defined Mobility
+        description: |
+          Jaeha Ahn, Sung-Ju Lee, Taesik Gong, Hyungjun Yoon, <b>Taeckyung Lee</b>
+
+          *Korea Patent; Filing date: 2022.11.11, No.10-2022-0150662*
+      - layout: top
+        title: Reinforcement Learning for Ad-hoc Routing Using Pre-defined Mobility
+        description: |
+          Sung-Ju Lee, Taesik Gong, Hyungjun Yoon, <b>Taeckyung Lee</b>, Jaeha Ahn
+
+          *Korea Patent; Date of patent: 2024.04.22, No.10-2660836, Filing date: 2022.03.21, No.10-2022-0034824*
+
   - title: Miscellaneous
     layout: list
     content: 
