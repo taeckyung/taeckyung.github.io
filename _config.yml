@@ -101,9 +101,9 @@ content:
   - title: Latest News
     layout: text
     content: |
-      **Feb 2024**  Paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
-      <br>**Sep 2023**  Paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
-      <br>**Jun 2022**  Paper accepted at CVPR Workshop (CVPM) '22.
+      **Feb 2024**  First-author paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
+      <br>**Sep 2023**  Co-first-author paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
+      <br>**Jun 2022**  First-author paper accepted at CVPR Workshop (CVPM) '22.
       <br>**Jun 2022**  Demo at MobiSys '22.
       <br>**Oct 2020**  Selected as a scholarship recipient of the Kwon Yong-se Scholarship (KAIST EE).
 
@@ -256,7 +256,7 @@ content:
         description: |
           Jaeha Ahn, Sung-Ju Lee, Taesik Gong, Hyungjun Yoon, <b>Taeckyung Lee</b>
 
-          *Korea Patent; Filing date: 2022.11.11, No.10-2022-0150662*
+          *Korea Patent; Accepted (to appear), Filing date: 2022.11.11, No.10-2022-0150662*
       - layout: top
         title: Reinforcement Learning for Ad-hoc Routing Using Pre-defined Mobility
         description: |
