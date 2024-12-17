@@ -180,7 +180,7 @@ content:
         description: | 
           Taesik Gong\*, Yewon Kim\*, <b>Taeckyung Lee&#42;</b>, Sorn Chottananurak, Sung-Ju Lee
           
-          **NeurIPS 2023** (&#42; Equal contribution. Acceptance rate: 26.1%)
+          **NeurIPS 2023** (&#42; Co-first author. Acceptance rate: 26.1%)
 
       - layout: top
         title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Mind-Wandering with Facial Videos in Online Lectures&#34;</a>
@@ -194,7 +194,7 @@ content:
         description: | 
           <b>Taeckyung Lee</b>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
 
-          **CVPR Workshops 2022** (Oral presentation, archived)
+          **CVPR Workshops 2022** (Oral presentation, peer-reviewed, archived)
 
           - Also appeared at **MobiSys 2022 Demo**
 
