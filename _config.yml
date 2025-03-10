@@ -232,6 +232,8 @@ content:
       - layout: top
         title: Reviewer
         description: |
+          - ICCV '25
+          - ICML '25
           - CVPR '24, '25
           - ICLR '25
           - NeurIPS '24
@@ -242,7 +244,7 @@ content:
       - layout: top
         title: Teaching Assistant @ KAIST
         description: |
-          - EE209 Programming Structures for EE (Spring 2025, Fall 2024, Spring 2023, Fall 2021)
+          - EE209 Programming Structures for EE (Spring 2025 (Head TA), Fall 2024, Spring 2023 (Head TA), Fall 2021 (Head TA))
           - EE323 Computer Networks (Spring 2024, Spring 2022, Spring 2021)
           - EE415 Operating Systems and System Programming for EE (Fall 2023)
           - EE595 Mobile Computing, Sensing, Learning, and Interactions (Fall 2022)
