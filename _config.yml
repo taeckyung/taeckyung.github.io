@@ -101,7 +101,7 @@ content:
   - title: Latest News
     layout: text
     content: |
-      **July 2025 (expected)**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
+      **Jul 2025 (expected)**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
       <br>**Feb 2024**  First-author paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
       <br>**Sep 2023**  Co-first-author paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
       <br>**Jun 2022**  First-author paper accepted at CVPR Workshop (CVPM) '22.
@@ -204,7 +204,7 @@ content:
     content:
       - layout: top
         title: Microsoft Research Asia
-        sub_title: Research Intern
+        sub_title: Research Intern (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/))
         caption: 2025.07 - 2025.12 (expected)
       - layout: top
         title: Networking and Mobile Systems Lab, KAIST
