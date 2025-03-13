@@ -204,7 +204,7 @@ content:
     content:
       - layout: top
         title: Microsoft Research Asia
-        sub_title: Research Intern (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/))
+        sub_title: Research Intern (Advisor: <a href="https://www.microsoft.com/en-us/research/people/liliqiu/">Lili Qiu</a>)
         caption: 2025.07 - 2025.12 (expected)
       - layout: top
         title: Networking and Mobile Systems Lab, KAIST
