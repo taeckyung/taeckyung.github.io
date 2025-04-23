@@ -259,6 +259,14 @@ content:
     layout: list
     content:
       - layout: top
+        title: UWB-based Pedestrian Collision Avoidance System for Personal Mobility Devices
+        description: |
+          Sung-Ju Lee, <b>Taeckyung Lee</b>, Hyungjun Yoon, Seungjoo Lee, Hyeongheon Cha
+          
+          *Korea Patent, Filing date: 2025.02.12, No.10-2025-0018095*
+
+    
+      - layout: top
         title: Time-Aware Reinforcement-Learning Method for Geographic Ad Hoc Routing with Pre-defined Mobility
         description: |
           Jaeha Ahn, Sung-Ju Lee, Taesik Gong, Hyungjun Yoon, <b>Taeckyung Lee</b>
