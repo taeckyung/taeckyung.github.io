@@ -103,6 +103,7 @@ content:
     content: |
       **Jul 2025 (expected)**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
       <br>**May 2025**  First-author paper (BiTTA) accepted at ICML '25 (Acceptance rate: 26.9%).
+      <br>**May 2025**  First-author paper (CrashSniffer) accepted at MobiSys Workshop (EnvSys) '25.
       <br>**May 2025**  Invited talk at UNIST UAI lab.
       <br>**Feb 2024**  First-author paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
       <br>**Sep 2023**  Co-first-author paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
@@ -144,6 +145,14 @@ content:
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Junsu Kim, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
           **ICML 2025** (^: Equal advising. Acceptance rate: 26.9%)
+          
+      - layout: top
+        title: <a>&#34;CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles&#34;</a>
+        description: |
+          <b>Taeckyung Lee</b>, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee. 
+
+          **ACM MobiSys 2025 Workshop on Advances in Environmental Sensing Systems for Smart Cities (EnvSys 2025)**
+
 
       - layout: top
         title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank" onclick="captureOutboundLink(https://arxiv.org/pdf/2404.01351.pdf); return false;">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
