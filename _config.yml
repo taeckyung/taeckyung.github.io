@@ -133,7 +133,7 @@ content:
         caption: 2016.02 - 2020.08
 
 
-  - title: Publications # Title for the section
+  - title: Conference Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
     
@@ -145,13 +145,6 @@ content:
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Junsu Kim, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
           **ICML 2025** (^: Equal advising. Acceptance rate: 26.9%)
-          
-      - layout: top
-        title: <a>&#34;CrashSniffer&#58; UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles&#34;</a>
-        description: |
-          <b>Taeckyung Lee</b>, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee. 
-
-          **ACM MobiSys 2025 Workshop on Advances in Environmental Sensing Systems for Smart Cities (EnvSys 2025)**
 
 
       - layout: top
@@ -194,6 +187,19 @@ content:
           
           **NeurIPS 2023** (&#42; Co-first author. Acceptance rate: 26.1%)
 
+
+    
+  - title: Workshop Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    
+      - layout: top
+        title: <a>&#34;CrashSniffer&#58; UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles&#34;</a>
+        description: |
+          <b>Taeckyung Lee</b>, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee. 
+
+          **MobiSys Workshops (EnvSys) 2025 (Oral presentation, peer-reviewed, archived)**
+
       - layout: top
         title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Mind-Wandering with Facial Videos in Online Lectures&#34;</a>
         additional_links:
@@ -206,7 +212,7 @@ content:
         description: | 
           <b>Taeckyung Lee</b>, Dain Kim, Sooyoung Park, Dongwhi Kim, Sung-Ju Lee
 
-          **CVPR Workshops 2022** (Oral presentation, peer-reviewed, archived)
+          **CVPR Workshops (CVPM) 2022** (Oral presentation, peer-reviewed, archived)
 
           - Also appeared at **MobiSys 2022 Demo**
 
@@ -258,7 +264,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: Teaching Assistant @ KAIST
+        title: Teaching Assistant, KAIST
         description: |
           - EE209 Programming Structures for EE (Spring 2025 (Head TA), Fall 2024, Spring 2023 (Head TA), Fall 2021 (Head TA))
           - EE323 Computer Networks (Spring 2024, Spring 2022, Spring 2021)
