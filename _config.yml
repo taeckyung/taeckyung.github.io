@@ -254,13 +254,17 @@ content:
     layout: list
     content:
       - layout: top
-        title: Reviewer
+        title: Conference Reviewer
         description: |
           - ICCV '25
           - ICML '25
           - CVPR '24, '25
           - ICLR '25
           - NeurIPS '24
+      - layout: top
+        title: Workshop Reviewer
+        description: |
+          - 2nd Workshop on Test-Time Adaptation (PUT) @ ICML '25
 
   - title: Teaching Experiences
     layout: list
