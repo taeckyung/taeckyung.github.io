@@ -104,6 +104,7 @@ content:
     layout: text
     content: |
       **Jul 2025 (expected)**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
+      <br>**Jun 2025**  Recognized as an Outstanding Reviewer at CVPR '25 (Top 5.6%).
       <br>**May 2025**  First-author paper (BiTTA) accepted at ICML '25 (Acceptance rate: 26.9%).
       <br>**May 2025**  First-author paper (CrashSniffer) accepted at MobiSys Workshop (EnvSys) '25.
       <br>**May 2025**  Invited talk at UNIST UAI lab.
@@ -242,6 +243,10 @@ content:
     layout: list
     content:
       - layout: top
+        title: Outstanding Reviewer
+        sub_title: CVPR 2025 (<i>5.6% among all reviewers</i>)
+        caption: 2025.06.13
+      - layout: top
         title: Kwon Young-se Scholarship
         sub_title: School of EE, KAIST (<i>Top-2 among EE grad school applicants in 2020 Fall</i>)
         caption: 2020.10.12
@@ -253,6 +258,10 @@ content:
   - title: Professional Services
     layout: list
     content:
+      - layout: top
+        title: Journal Reviewer
+        description: |
+          - TMLR
       - layout: top
         title: Conference Reviewer
         description: |
