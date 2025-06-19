@@ -110,7 +110,7 @@ content:
       <br>**May 2025**  Invited talk at UNIST UAI lab.
       <br>**Feb 2024**  First-author paper (AETTA) accepted at CVPR '24 (Acceptance rate: 23.6%).
       <br>**Sep 2023**  Co-first-author paper (SoTTA) accepted at NeurIPS '23 (Acceptance rate: 26.1%).
-      <br>**Jun 2022**  First-author paper accepted at CVPR Workshop (CVPM) '22.
+      <br>**Jun 2022**  First-author paper (PAFE) accepted at CVPR Workshop (CVPM) '22.
       <br>**Jun 2022**  Demo at MobiSys '22.
       <br>**Oct 2020**  Selected as a scholarship recipient of the Kwon Yong-se Scholarship (KAIST EE).
 
@@ -143,7 +143,7 @@ content:
       # - layout: top
       #   title: Conferences and Journals
       - layout: top
-        title: <a>&#34;Test-Time Adaptation with Binary Feedback&#34;</a>
+        title: [BiTTA] <a href="https://arxiv.org/abs/2505.18514">&#34;Test-Time Adaptation with Binary Feedback&#34;</a>
         description: |
           <b>Taeckyung Lee</b>, Sorn Chottananurak, Junsu Kim, Jinwoo Shin, Taesik Gong^, Sung-Ju Lee^
 
@@ -151,7 +151,7 @@ content:
 
 
       - layout: top
-        title: <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank" onclick="captureOutboundLink(https://arxiv.org/pdf/2404.01351.pdf); return false;">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
+        title: [AETTA] <a href="https://arxiv.org/pdf/2404.01351.pdf" target="_blank" onclick="captureOutboundLink(https://arxiv.org/pdf/2404.01351.pdf); return false;">&#34;AETTA&#58; Label-Free Accuracy Estimation for Test-Time Adaptation&#34;</a>
         additional_links:
           - title:  Project page
             icon: fas fa-home
@@ -171,7 +171,7 @@ content:
           **CVPR 2024** (Acceptance rate: 23.6%)
 
       - layout: top
-        title: <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf" target="_blank">&#34;SoTTA&#58; Robust Test-Time Adaptation on Noisy Data Streams&#34;</a>
+        title: [SoTTA] <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf" target="_blank">&#34;SoTTA&#58; Robust Test-Time Adaptation on Noisy Data Streams&#34;</a>
         additional_links:
           - title:  Project page
             icon: fas fa-home
@@ -197,14 +197,14 @@ content:
     content:
     
       - layout: top
-        title: <a>&#34;CrashSniffer&#58; UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles&#34;</a>
+        title: [CrashSniffer] <a>&#34;CrashSniffer&#58; UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles&#34;</a>
         description: |
           <b>Taeckyung Lee</b>, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee. 
 
           **MobiSys Workshops (EnvSys) 2025** (Oral presentation, peer-reviewed, archived)
 
       - layout: top
-        title: <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Mind-Wandering with Facial Videos in Online Lectures&#34;</a>
+        title: [PAFE] <a href="https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf" target="_blank">&#34;Predicting Mind-Wandering with Facial Videos in Online Lectures&#34;</a>
         additional_links:
           - title:  Project page
             icon: fas fa-home
