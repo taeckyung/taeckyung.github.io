@@ -52,7 +52,7 @@ gtag: G-R2EM4J3E8J
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>, with close collaboration with <a href="https://alinlab.kaist.ac.kr/shin.html" target="_blank">Prof. Jinwoo Shin</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
+  I am a Ph.D. candidate at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>, with close collaboration with <a href="https://alinlab.kaist.ac.kr/shin.html" target="_blank">Prof. Jinwoo Shin</a> and <a href="https://taesikgong.com" target="_blank">Prof. Taesik Gong</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
   
   My research interests include end-user machine learning, including mobile AI, adaptation, and personalization. I am currently focusing on **overcoming failures in test-time adaptation**. 
   My recent work includes "BiTTA" (ICML 2025), "AETTA" (CVPR 2024), and "SoTTA" (NeurIPS 2023), which focus on (1) adaptation with user guidance,
