@@ -265,6 +265,10 @@ content:
     layout: list
     content:
       - layout: top
+        title: Program Committee
+        description: |
+          - AAAI '26
+      - layout: top
         title: Journal Reviewer
         description: |
           - TMLR
