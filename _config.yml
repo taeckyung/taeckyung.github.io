@@ -143,7 +143,7 @@ content:
       # - layout: top
       #   title: Conferences and Journals
       - layout: top
-        title: "<a href=\"https://arxiv.org/abs/2505.18514\" target=\"_blank\">\"Test-Time Adaptation with Binary Feedback\"</a>"
+        title: "<a href=\"https://arxiv.org/abs/2505.18514\" target=\"_blank\">\"Test-Time Adaptation with Binary Feedback\" (BiTTA)</a>"
         additional_links:
           - title:  Project page
             icon: fas fa-home
