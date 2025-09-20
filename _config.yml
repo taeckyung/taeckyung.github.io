@@ -47,7 +47,7 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 gtag: G-R2EM4J3E8J
-description: "Taeckyung (TK) Lee — Ph.D. candidate at KAIST NMSL. Research on test-time adaptation, mobile AI, and personalization. Works include BiTTA (ICML 2025), AETTA (CVPR 2024), SoTTA (NeurIPS 2023). Also known as Taeckyung Lee, TK Lee, Taekyung Lee, v-taeclee."
+description: "Taeckyung (TK) Lee — Ph.D. candidate at KAIST NMSL. Research on adaptation, mobile AI, and personalization. Works include BiTTA (ICML 2025), AETTA (CVPR 2024), SoTTA (NeurIPS 2023). Also known as Taeckyung Lee, TK Lee, Taekyung Lee, v-taeclee."
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -105,7 +105,7 @@ content:
   - title: Latest News
     layout: text
     content: |
-      **Jul 2025 (expected)**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
+      **Jul 2025**  Research intern at Microsoft Research Asia (Advisor: [Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/)).
       <br>**Jun 2025**  Recognized as an Outstanding Reviewer at CVPR '25 (Top-5.6%).
       <br>**May 2025**  First-author paper (BiTTA) accepted at ICML '25 (Acceptance rate: 26.9%).
       <br>**May 2025**  First-author paper (CrashSniffer) accepted at MobiSys Workshop (EnvSys) '25.
