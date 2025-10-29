@@ -137,6 +137,23 @@ content:
           - GPA 3.96/4.30 (Magna Cum Laude), Advanced Major, Certificate in AI
         caption: 2016.02 - 2020.08
 
+  - title: Preprints # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    
+      # - layout: top
+      #   title: Conferences and Journals
+      - layout: top
+        title: "<a href=\"https://arxiv.org/abs/2510.20853\" target=\"_blank\">\"Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization
+\"</a>"
+        additional_links:
+          - title:  Paper
+            icon: fas fa-file-pdf
+            url: https://arxiv.org/abs/2510.20853
+        description: |
+          Hyungjun Yoon, Seungjoo Lee, Yu Yvonne Wu, Xiaomeng Chen, Taiting Lu, Freddy Yifei Liu, <b>Taeckyung Lee</b>, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Cecilia Mascolo, Dongyao Chen, Lili Qiu
+
+          **Preprint**
 
   - title: Conference Publications # Title for the section
     layout: list # Type of content section (list/text)
