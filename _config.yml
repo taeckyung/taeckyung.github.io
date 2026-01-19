@@ -284,10 +284,6 @@ content:
     layout: list
     content:
       - layout: top
-        title: Program Committee
-        description: |
-          - AAAI '26
-      - layout: top
         title: Journal Reviewer
         description: |
           - TMLR
@@ -299,6 +295,7 @@ content:
           - ICLR '25
           - CVPR '24, '25, '26
           - ICCV '25
+          - AAAI '26
           - WACV '25
       - layout: top
         title: Workshop Reviewer
