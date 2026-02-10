@@ -216,10 +216,6 @@ content:
 
       - layout: top
         title: "<a href=\".\" target=\"_blank\">\" Evaluating Visual Prompts with Eye-Tracking Data for MLLM–Based Human Activity Recognition\"</a>"
-        additional_links:
-          - title:  Paper
-            icon: fas fa-file-pdf
-            url: .
         description: |
           Jae Young Choi, Seon Gyeom Kim, Hyungjun Yoon, <b>Taeckyung Lee</b>, Donggun Lee, Jaeryung Chung, Jihyung Kil, Ryan Rossi, Sung-Ju Lee, Tak Yeon Lee
 
@@ -239,7 +235,11 @@ content:
           
     
       - layout: top
-        title: "<a>\"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles\"</a>"
+        title: "<a href=\"https://dl.acm.org/doi/abs/10.1145/3742460.3742982\" target=\"_blank\">\"CrashSniffer: UWB-Based Anchor-Free Pedestrian Collision Prediction for Personal Mobility Vehicles\"</a>"
+        additional_links:
+          - title:  Paper
+            icon: fas fa-file-pdf
+            url: https://dl.acm.org/doi/abs/10.1145/3742460.3742982
         description: |
           <b>Taeckyung Lee</b>, Juseung Lee, Ryuhaerang Choi, Seungjoo Lee, Hyeongheon Cha, Hyungjun Yoon, Song Min Kim, Sangwook Bak, Sung-Ju Lee. 
 
