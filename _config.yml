@@ -368,10 +368,8 @@ content:
           - ICCV '25
           - AAAI '26
           - WACV '25
-      - layout: top
-        title: Workshop Reviewer
-        description: |
-          - 2nd Workshop on Test-Time Adaptation (PUT) @ ICML '25, ICLR '26
+          - 2nd Workshop on Test-Time Adaptation (PUT) @ ICML '25
+          - 3rd Workshop on Test-Time Updates (TTU) @ ICLR '26
 
   - title: Teaching Experiences
     layout: list
