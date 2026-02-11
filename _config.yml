@@ -358,15 +358,12 @@ content:
     layout: list
     content:
       - layout: top
-        title: Journal Reviewer
+        title: Reviewer
         description: |
           - TMLR
-      - layout: top
-        title: Conference Reviewer
-        description: |
           - NeurIPS '24, '25
-          - ICML '25
-          - ICLR '25
+          - ICML '25, '26
+          - ICLR '25, '26
           - CVPR '24, '25, '26
           - ICCV '25
           - AAAI '26
@@ -374,7 +371,7 @@ content:
       - layout: top
         title: Workshop Reviewer
         description: |
-          - 2nd Workshop on Test-Time Adaptation (PUT) @ ICML '25
+          - 2nd Workshop on Test-Time Adaptation (PUT) @ ICML '25, ICLR '26
 
   - title: Teaching Experiences
     layout: list
