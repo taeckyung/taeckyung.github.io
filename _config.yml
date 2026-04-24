@@ -47,15 +47,15 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 gtag: G-R2EM4J3E8J
-description: "Taeckyung (TK) Lee — Ph.D. candidate at KAIST NMSL. Research on adaptation, mobile AI, and personalization. Works include BiTTA (ICML 2025), AETTA (CVPR 2024), SoTTA (NeurIPS 2023). Also known as Taeckyung Lee, TK Lee, Taekyung Lee, v-taeclee."
+description: "Taeckyung (TK) Lee — Ph.D. candidate at KAIST MIIL. Research on adaptation, mobile AI, and personalization. Works include BiTTA (ICML 2025), AETTA (CVPR 2024), SoTTA (NeurIPS 2023). Also known as Taeckyung Lee, TK Lee, Taekyung Lee, v-taeclee."
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate at <a href="https://nmsl.kaist.ac.kr" target="_blank">KAIST NMSL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>, with close collaboration with <a href="https://alinlab.kaist.ac.kr/shin.html" target="_blank">Prof. Jinwoo Shin</a> and <a href="https://taesikgong.com" target="_blank">Prof. Taesik Gong</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
+  I am a Ph.D. candidate at <a href="https://miil.kaist.ac.kr" target="_blank">KAIST MIIL</a>, under the guidance of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>, with close collaboration with <a href="https://alinlab.kaist.ac.kr/shin.html" target="_blank">Prof. Jinwoo Shin</a> and <a href="https://taesikgong.com" target="_blank">Prof. Taesik Gong</a>. I earned my M.S. in Electrical Engineering from KAIST, also under the supervision of <a href="https://sites.google.com/site/wewantsj/" target="_blank">Prof. Sung-Ju Lee</a>. I completed my B.S. in Computing at KAIST, graduating Magna Cum Laude.
   
-  My research interests include machine learning for end users, including mobile AI, model adaptation, and personalization. I am currently focusing on model adaptation in inference time (test-time adaptation). 
+  My research interests include AI post-training, including test-time adaptation (TTA) and reinforcement learning with verifiable rewards (RLVR). I am currently focusing on model adaptation in inference time (test-time adaptation). 
   My recent work includes "BiTTA" (ICML 2025), "AETTA" (CVPR 2024), and "SoTTA" (NeurIPS 2023), which focus on (1) RL-inspired adaptation with a few user feedback,
   (2) estimating adaptation performance without labeled data, and (3) adaptation with challenging noisy data streams, emphasizing the robustness and reliability of test-time adaptation.
   
@@ -154,7 +154,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/bitta/
+            url: https://miil.kaist.ac.kr/projects/bitta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/abs/2505.18514
@@ -172,7 +172,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/aetta/
+            url: https://miil.kaist.ac.kr/projects/aetta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/pdf/2404.01351.pdf
@@ -192,7 +192,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/sotta/
+            url: https://miil.kaist.ac.kr/projects/sotta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf
@@ -252,7 +252,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/bitta/
+            url: https://miil.kaist.ac.kr/projects/bitta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/abs/2505.18514
@@ -270,7 +270,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/aetta/
+            url: https://miil.kaist.ac.kr/projects/aetta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://arxiv.org/pdf/2404.01351.pdf
@@ -290,7 +290,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/sotta/
+            url: https://miil.kaist.ac.kr/projects/sotta/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2da53cd1abdae59150e35f4693834f32-Paper-Conference.pdf
@@ -311,7 +311,7 @@ content:
         additional_links:
           - title:  Project page
             icon: fas fa-home
-            url: https://nmsl.kaist.ac.kr/projects/attention/
+            url: https://miil.kaist.ac.kr/projects/attention/
           - title:  Paper
             icon: fas fa-file-pdf
             url: https://openaccess.thecvf.com/content/CVPR2022W/CVPM/papers/Lee_Predicting_Mind-Wandering_With_Facial_Videos_in_Online_Lectures_CVPRW_2022_paper.pdf
@@ -330,7 +330,7 @@ content:
         sub_title: Research Intern (Advisor&#58; <a href="https://www.microsoft.com/en-us/research/people/liliqiu">Lili Qiu</a>)
         caption: 2025.07 - 2026.01
       - layout: top
-        title: Networking and Mobile Systems Lab, KAIST
+        title: Mobile Intelligence and Interaction Lab, KAIST
         sub_title: Research Assistant
         caption: 2020.03 - Present
       - layout: top
