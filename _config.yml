@@ -342,6 +342,14 @@ content:
     layout: list
     content:
       - layout: top
+        title: National AI Data Center Advancement Project
+        sub_title: AICA, South Korea
+        caption: 2026.05 - 2026.12
+      - layout: top
+        title: Silver Reviewer
+        sub_title: ICML 2026 (<i>Top-50% among all reviewers</i>)
+        caption: 2026.05.14
+      - layout: top
         title: Outstanding Reviewer
         sub_title: CVPR 2025 (<i>Top-5.6% among all reviewers</i>)
         caption: 2025.06.13
@@ -361,7 +369,7 @@ content:
         title: Reviewer
         description: |
           - TMLR
-          - NeurIPS '24, '25
+          - NeurIPS '24, '25, '26
           - ICML '25, '26
           - ICLR '25, '26
           - CVPR '24, '25, '26
