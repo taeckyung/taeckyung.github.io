@@ -342,7 +342,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: National AI Data Center Advancement Project
+        title: National AI Data Center Advancement Project (8 x B200 support)
         sub_title: AICA, South Korea
         caption: 2026.05 - 2026.12
       - layout: top
