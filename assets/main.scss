@@ -3,3 +3,8 @@
 ---
 
 @import 'modern-resume-theme';
+
+// Reduce h3 title font size
+h3 {
+  font-size: 1.1em !important;  // Adjust the value as needed
+}
